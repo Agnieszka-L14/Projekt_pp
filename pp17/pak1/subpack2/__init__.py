@@ -1,0 +1,1 @@
+print("Inicjalicuję sumpack2")
